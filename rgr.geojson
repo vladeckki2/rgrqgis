@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "rgr",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "code_river": 202, "code_pool": 2, "K4": 4, "Vodotok": "Паз", "hydrouzel": "Кайтакоси", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 29.241910165197833, 69.117702599775583 ] } },
+{ "type": "Feature", "properties": { "id": 4, "code_river": 202, "code_pool": 4, "K4": 6, "Vodotok": "Паз", "hydrouzel": "Янискоски", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 28.779606287911918, 68.972243050169212 ] } },
+{ "type": "Feature", "properties": { "id": 5, "code_river": 202, "code_pool": 6, "K4": 5, "Vodotok": "Паз", "hydrouzel": "Раяскоски", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 29.005727642702645, 69.023225193787866 ] } },
+{ "type": "Feature", "properties": { "id": 6, "code_river": 202, "code_pool": 8, "K4": 4, "Vodotok": "Паз", "hydrouzel": "хевоскоски", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 28.601147185024697, 68.938818604454994 ] } },
+{ "type": "Feature", "properties": { "id": 7, "code_river": 202, "code_pool": 10, "K4": 1, "Vodotok": "Паз", "hydrouzel": "Борисоглебский", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 30.139384488582937, 69.643304237406952 ] } },
+{ "type": "Feature", "properties": { "id": 8, "code_river": 206, "code_pool": 2, "K4": 8, "Vodotok": "Тулома", "hydrouzel": "В.-Туломский", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 31.764474863524015, 68.608996939447067 ] } },
+{ "type": "Feature", "properties": { "id": 9, "code_river": 206, "code_pool": 4, "K4": 7, "Vodotok": "Тулома", "hydrouzel": "Н.-Туломский", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 32.818347794551379, 68.821694433942469 ] } },
+{ "type": "Feature", "properties": { "id": 10, "code_river": 210, "code_pool": 6, "K4": 1, "Vodotok": "Терибёрка", "hydrouzel": "В.-Териберский", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 35.000063503265508, 69.058300371816529 ] } },
+{ "type": "Feature", "properties": { "id": 11, "code_river": 210, "code_pool": 8, "K4": 0, "Vodotok": "Териберка", "hydrouzel": "Н.-Териберский", "eco_code": 50, "obj_code": 47, "EGP_code": 1, "water_code": 11 }, "geometry": { "type": "Point", "coordinates": [ 35.147356020748944, 69.125706345452883 ] } }
+]
+}
